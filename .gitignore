@@ -1,1 +1,2 @@
-.idea
+*.idea
+MNIST_data*
